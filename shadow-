@@ -1,4 +1,4 @@
-root:!*:17920:0:99999:7:::
+root:$6$A6NjxdDa$dqwxQsuJc8RTgTMTGmQqWLzkFpbSB6/YFCles98lB5X5G4S4XYDjICrLXlgEt.1BrNze8rLK5rrvMKVyMiMdt.:18156:0:99999:7:::
 daemon:*:17920:0:99999:7:::
 bin:*:17920:0:99999:7:::
 sys:*:17920:0:99999:7:::
@@ -24,3 +24,4 @@ postfix:*:17920:0:99999:7:::
 _apt:*:17920:0:99999:7:::
 sshd:*:17920:0:99999:7:::
 uuidd:*:17920:0:99999:7:::
+username:!:18164:0:99999:7:::

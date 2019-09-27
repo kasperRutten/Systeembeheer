@@ -1,9 +1,23 @@
-# This file lists locales that you wish to have built. You can find a list
+	# This file lists locales that you wish to have built. You can find a list
 # of valid supported locales at /usr/share/i18n/SUPPORTED, and you can add
 # user defined locales to /usr/local/share/i18n/SUPPORTED. If you change
 # this file, you need to rerun locale-gen.
 
-
+LANG=en_US.UTF-8
+LANGUAGE=en_US
+LC_CTYPE="en_US.UTF-8"
+LC_NUMERIC=nl_BE.UTF-8
+LC_TIME=nl_BE.UTF-8
+LC_COLLATE="en_US.UTF-8"
+LC_MONETARY=nl_BE.UTF-8
+LC_MESSAGES="en_US.UTF-8"
+LC_PAPER=nl_BE.UTF-8
+LC_NAME=nl_BE.UTF-8
+LC_ADDRESS=nl_BE.UTF-8
+LC_TELEPHONE=nl_BE.UTF-8
+LC_MEASUREMENT=nl_BE.UTF-8
+LC_IDENTIFICATION=nl_BE.UTF-8
+LC_ALL=
 # aa_DJ ISO-8859-1
 # aa_DJ.UTF-8 UTF-8
 # aa_ER UTF-8
