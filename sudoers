@@ -23,8 +23,8 @@ root	ALL=(ALL:ALL) ALL
 %admin ALL=(ALL) ALL
 
 # Allow members of group sudo to execute any command
-%sudo	ALL=(ALL:ALL) ALL
 
 # See sudoers(5) for more information on "#include" directives:
 
 #includedir /etc/sudoers.d
+check kasper-rutten= NOPASSWD: /usr/lib/nagios/plugins/check_apt,/usr/sbin/arp
