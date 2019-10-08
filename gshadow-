@@ -18,7 +18,7 @@ voice:*::
 cdrom:*::
 floppy:*::
 tape:*::
-sudo:*::check
+sudo:*::
 audio:*::
 dip:*::
 www-data:*::
@@ -51,4 +51,3 @@ ssh:!::
 mlocate:!::
 uuidd:!::
 username:!::
-check:!::
