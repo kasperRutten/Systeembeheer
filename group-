@@ -51,3 +51,4 @@ ssh:x:111:
 mlocate:x:112:
 uuidd:x:113:
 username:x:1000:
+check:x:1001:
