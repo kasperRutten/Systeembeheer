@@ -26,7 +26,7 @@ Unattended-Upgrade::Package-Blacklist {
 
 // This option will controls whether the development release of Ubuntu will be
 // upgraded automatically.
-Unattended-Upgrade::DevRelease "false";
+Unattended-Upgrade::DevRelease "true";
 
 // This option allows you to control if on a unclean dpkg exit
 // unattended-upgrades will automatically run 
