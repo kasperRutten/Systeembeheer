@@ -9,8 +9,8 @@
 # OpenSSH is to specify options with their default value where
 # possible, but leave them commented.  Uncommented options override the
 # default value.
-UseDNS no
-Port 22345
+#UseDNS no
+Port 22
 #AddressFamily any
 #ListenAddress 0.0.0.0
 #ListenAddress ::
