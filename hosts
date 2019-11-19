@@ -1,5 +1,7 @@
 127.0.0.1	localhost
 ::1		localhost ip6-localhost ip6-loopback
+192.0.2.1       ns1.uclllabs.be ns1
+192.0.2.2       ns2.uclllabs.be ns2
 ff02::1		ip6-allnodes
 ff02::2		ip6-allrouters
 # --- BEGIN PVE ---
