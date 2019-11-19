@@ -6,7 +6,7 @@
 // organization
 //include "/etc/bind/zones.rfc1918";
 zone "kasper.rutten.sb.uclllabs.be"{
-	type master
+	type master;
 	file "/etc/bind/zones/db.kasper-rutten";
 	allow-transfer {192.0.2.2;};
 };
