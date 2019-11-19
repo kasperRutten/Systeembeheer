@@ -53,3 +53,4 @@ uuidd:x:113:
 username:x:1000:
 check:x:1001:
 incron:x:114:
+ntp:x:115:
