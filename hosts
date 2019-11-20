@@ -1,6 +1,7 @@
 127.0.0.1	localhost
 ::1		localhost ip6-localhost ip6-loopback
 193.191.177.155 ns.kasper-rutten.sb.uclllabs.be ns
+193.191.177.254 test.kasper-rutten.sb.uclllabs.be test
 192.0.2.1       ns1.uclllabs.be ns1
 192.0.2.2       ns2.uclllabs.be ns2
 ff02::1		ip6-allnodes
