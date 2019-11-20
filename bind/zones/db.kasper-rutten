@@ -18,4 +18,5 @@ ns			      IN	A	193.191.177.155
 www			      IN	A	193.191.177.155
 test			      IN	A	193.191.177.254
 
+kasper-rutten.sb.uclllabs.be  IN	NS	ns.bram-schreurs.sb.uclllabs.be.
 bram-schreurs.sb.uclllabs.be  IN	A	193.191.177.209
