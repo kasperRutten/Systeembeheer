@@ -4,6 +4,8 @@
 193.191.177.254 test.kasper-rutten.sb.uclllabs.be test
 193.191.177.155 www1.kasper-rutten.sb.uclllabs.be www1
 193.191.177.155 www2.kasper-rutten.sb.uclllabs.be www2
+193.191.177.155 secure.kasper-rutten.sb.uclllabs.be secure
+193.191.177.155 supersecure.kasper-rutten.sb.uclllabs.be supersecure
 193.191.177.209 bram-schreurs.uclllabs.be bram-schreurs
 192.0.2.1       ns1.uclllabs.be ns1
 192.0.2.2       ns2.uclllabs.be ns2
