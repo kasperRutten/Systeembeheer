@@ -3,9 +3,6 @@ Name = eth0
 
 [Network]
 Description = Interface eth0 autoconfigured by PVE
-Address = 193.191.177.155/25
-Address = 2001:6a8:2880:a077::9b/64
 Gateway = 193.191.177.254
-Gateway = 2001:6a8:2880:a077::1
 DHCP = none
 IPv6AcceptRA = false
