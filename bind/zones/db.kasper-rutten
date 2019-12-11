@@ -3,7 +3,7 @@
 ;
 $TTL	604800
 @	IN	SOA	ns.kasper-rutten.sb.uclllabs.be. root.sb.uclllabs.be.(
-		     2019112008		; Serial
+		     2019112010		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
@@ -29,4 +29,6 @@ kasper-rutten.sb.uclllabs.be. IN	CAA	0 issue "letsencrypt.org"
 kasper-rutten.sb.uclllabs.be. IN	CAA	0 iodef "mailto:kasper.rutten@student.ucll.be"
 
 kasper-rutten.sb.uclllabs.be. IN	AAAA	2001:6a8:2880:a077::9b
+ns.kasper-rutten.sb.uclllabs.be. IN	AAAA	2001:6a8:2880:a077::9b
 ns			      IN        AAAA    2001:6a8:2880:a077::9b
+ipv6			      IN	AAAA	2001:6a8:2880:a077::9b
